@@ -1,0 +1,17 @@
+{ "purchased_songs" : [
+{
+"title" : "Life in Technicolor ii",
+"artist" : "Coldplay",
+"released_year" : 2008,
+"price" : 15000,
+"isTimeSale" : false
+},
+{
+"title" : "Circles",
+"artist" : "Post Malone",
+"released_year" : 2019,
+"price" : 19000,
+"isTimeSale" : true
+}
+]
+}
