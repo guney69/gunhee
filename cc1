@@ -1,0 +1,26 @@
+{
+"userid" : "gunhee123",
+"name" : "gunhee",
+"email" : "gunhee@martinee.io",
+"membership" : "Gold",
+"product_liked" : ["shoes", "pants", "shirts"],
+"signup_date" : "2022-05-09",
+"total_purchase_item_info" :[
+                {
+                "name" : "Martinee 후드티",
+                "id" : "999999",
+                "discount_rate" : 0.2,
+                "price" : 39900,
+                "category_name" : "의류",
+                "category_id" : "001"
+                },
+                {
+                "name" : "Martinee 가방",
+                "id" : "333333",
+                "discount_rate" : 0,
+                "price" : 79900,
+                "category_name" : "가방",
+                "category_id" : "005"
+                }
+]
+}
