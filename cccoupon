@@ -8,7 +8,7 @@
   "used" : true
   },
   { 
-  "name" : "그냥 주는 쿠폰",
+  "name" : "N월 한정 할인 쿠폰",
   "discount_rate" : 0.2,
   "exp_date" : 2025-12-01,
   "isExpired" : false,
