@@ -1,4 +1,4 @@
-[
+{ "festival" : [
 {
   "country" : "Brazil",
     "name" : "리우 카니발",
@@ -24,3 +24,4 @@
     "img" : "https://www.omynara.com/wp-content/uploads/2018/03/Oktoberfest.jpg"
 }
 ]
+}
