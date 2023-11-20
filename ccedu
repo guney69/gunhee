@@ -1,0 +1,26 @@
+[
+{
+  "country" : "Brazil",
+    "name" : "리우 카니발",
+    "start_date" : "2024-02-09",
+    "end_date" : "2024-02-17",
+    "body" : "흥겨운 브라질의 삼바 축제 리우 카니발을 즐겨보세요. 룰루",
+    "img" : "https://cdn.getyourguide.com/img/tour/63bf48d3d663c.jpeg/98.jpg"
+},
+{
+  "country" : "Japan",
+    "name" : "삿포로 눈꽃 축제",
+    "start_date" : "2024-02-04",
+    "end_date" : "2024-02-11",
+    "body" : "아름다운 눈꽃과 얼음 조각상들 앞에서 사랑을 고백해보세요.",
+    "img" : "https://res.cloudinary.com/jnto/image/upload/w_800,f_auto,fl_lossy,q_auto/v1/media/filer_public/ac/3d/ac3d0199-407a-426b-bac4-a31d072e036d/it1734_003_pixta_eymwyz"
+},
+{
+  "country" : "Germany",
+    "name" : "뮌헨 옥토버페스트",
+    "start_date" : "2024-10-25",
+    "end_date" : "2024-11-04",
+    "body" : "맥최몇?",
+    "img" : "https://www.omynara.com/wp-content/uploads/2018/03/Oktoberfest.jpg"
+}
+]
