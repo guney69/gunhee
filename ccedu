@@ -1,6 +1,6 @@
 { "festival" : [
 {
-  "country" : "Brazil",
+  "country" : "brazil",
     "name" : "리우 카니발",
     "start_date" : "2024-02-09",
     "end_date" : "2024-02-17",
@@ -8,7 +8,7 @@
     "img" : "https://cdn.getyourguide.com/img/tour/63bf48d3d663c.jpeg/98.jpg"
 },
 {
-  "country" : "Japan",
+  "country" : "japan",
     "name" : "삿포로 눈꽃 축제",
     "start_date" : "2024-02-04",
     "end_date" : "2024-02-11",
@@ -16,7 +16,7 @@
     "img" : "https://res.cloudinary.com/jnto/image/upload/w_800,f_auto,fl_lossy,q_auto/v1/media/filer_public/ac/3d/ac3d0199-407a-426b-bac4-a31d072e036d/it1734_003_pixta_eymwyz"
 },
 {
-  "country" : "Germany",
+  "country" : "germany",
     "name" : "뮌헨 옥토버페스트",
     "start_date" : "2024-10-25",
     "end_date" : "2024-11-04",
