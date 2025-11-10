@@ -1,0 +1,22 @@
+{
+  "item_info" :[
+                {
+                "name" : "Martinee 후드티",
+                "id" : "999999",
+                "discount_rate" : 0.2,
+                "price" : 39900,
+                "category_name" : "의류",
+                "category_id" : "001",
+                "stock" : 3
+                },
+                {
+                "name" : "Martinee 가방",
+                "id" : "333333",
+                "discount_rate" : 0,
+                "price" : 79900,
+                "category_name" : "가방",
+                "category_id" : "005",
+                "stock" : 11
+                }
+  ]
+}
